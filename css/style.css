@@ -1,6 +1,8 @@
 body{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 125%;
+  font-size: 100%;
+  line-height: normal;
+  color:#1A1D20;
 }
 
 header{
@@ -11,25 +13,34 @@ nav{
     text-align: center;
     background-color:#D2DBE3;
 }
+
 main{
     background-color: #F9F6F0;
     color: #1A1D20;
 }
+
 footer{
     background-color: #D8D0C5;
 }
 
 li{
     display:inline-block;
-    width: 200px;
+    width: auto;
 }
+
 h1{
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
     color:#2C3E50;
 }
+
 p{
     line-height: normal;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
 }
 
 .image-container {
