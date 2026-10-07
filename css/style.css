@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background-color: aquamarine;
+    background-color:cadetblue;
 }
 
 nav{
@@ -16,6 +16,7 @@ main{
 footer{
     background-color: beige;
 }
+
 li{
     display:block;
     width: 200px;
