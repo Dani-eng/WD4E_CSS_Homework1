@@ -4,18 +4,19 @@ body{
 }
 
 header{
-    background-color:aqua;
+    background-color:#E2E8DF;
 }
 
 nav{
     text-align: center;
-    background-color:cadetblue;
+    background-color:#D2DBE3;
 }
 main{
-    background-color: blanchedalmond;
+    background-color: #F9F6F0;
+    color: #1A1D20;
 }
 footer{
-    background-color: beige;
+    background-color: #D8D0C5;
 }
 
 li{
@@ -25,8 +26,12 @@ li{
 h1{
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
-    color:antiquewhite;
+    color:#2C3E50;
 }
 p{
     line-height: normal;
+}
+
+.image-container {
+  text-align: center;
 }
