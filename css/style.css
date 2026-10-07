@@ -4,11 +4,12 @@ body{
 }
 
 header{
-    background-color:cadetblue;
+    background-color:azure;
 }
 
 nav{
-    background-color: azure;
+    text-align: center;
+    background-color:cadetblue;
 }
 main{
     background-color: blanchedalmond;
@@ -18,7 +19,7 @@ footer{
 }
 
 li{
-    display:block;
+    display:inline-block;
     width: 200px;
 }
 h1{
